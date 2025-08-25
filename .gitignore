@@ -1,1 +1,7 @@
-venv
+venv/
+key.txt
+src/__pycache__/storage.cpython-311.pyc
+src/__pycache__/data_fetcher.cpython-311.pyc
+src/strategies/vwap_rsi.py
+data/QQQ/merged.csv
+data/QQQ/merged_data.csv
